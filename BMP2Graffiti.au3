@@ -4,6 +4,7 @@
 
 
  HotKeySet("{ESC}", "Terminate")
+ HotKeySet("{Pause}", "Pause")
 
 Global $PointStartX = 507
 Global $PointStartY = 192
